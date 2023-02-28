@@ -2,7 +2,6 @@
 
 Projeto desenvolvido utilizando React + Typescript durante o curso [B7Web](https://b7web.com.br/fullstack).
 
-#
 
 ### Instalar:
 
@@ -19,14 +18,12 @@ Projeto desenvolvido utilizando React + Typescript durante o curso [B7Web](https
 ![Desktop](./src/prints/calc-imc-lobby-desktop.png)
 ![Desktop](./src/prints/calc-imc-result-desktop.png)
 
-#
 
 ## Tablet:
 
 ![Tablet](./src/prints/calc-imc-lobby-tablet.png)
 ![Tablet](./src/prints/calc-imc-result-tablet.png)
 
-#
 
 ## Smartphone:
 
